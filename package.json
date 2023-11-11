@@ -1,8 +1,7 @@
 {
-  "name": "apakah",
-  "version": "1.0.0",
-  "description": "apakah bisa",
-  "main": "index.js",
-  "author": "Draculacole",
-  "license": "MIT"
+  "name": "my-package",
+  "scripts": {
+    "build": "babel",
+    "start": "index.js"
+  }
 }
